@@ -20,8 +20,8 @@ Executei os comandos na seguinte ordem: <br>
 <b>Se criou uma Tabela:</b><br> [RA] <b>(PRIMARY-KEY)</b> Varchar(256), <br> [Nome] Varchar(256), <br> [Email] Varchar(256), <br> [Cpf] Varchar(256).<br>
 
 <h3> Observações Finais </h3>
-- Minhas Melhorias caso tivesse mais tempo: Realizar uma mensagem de retorno informando que já existe o cadastro, caso o RA inserido já exista no sistema, através da chave Primaria. <br>
-- Criar uma textBox para consultar Alunos através do RA <br>
+- Minhas Melhorias caso tivesse mais tempo: Realizar uma mensagem de retorno informando que já existe o cadastro, caso o RA inserido já exista no sistema, através da chave Primaria, <br>
+- Criar uma textBox para consultar Alunos através do RA, <br>
 - Melhorar o Front-END. <br> <br>
 
 Teste para a vaga de Desenvolvedor - FullStack Web
