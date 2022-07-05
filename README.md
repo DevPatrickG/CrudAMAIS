@@ -8,7 +8,7 @@
 ° Pacotes NuGet: Microsoft.EntityFrameworkCore.Tools 6.0.6 <br>
 ° Pacotes NuGet: Microsoft.VisualStudio.Web.CodeGeneration.Design 6.0.6 <br>
 
-<b>Foi optada essa arquitetura mais recente, pois possuem manuseamentos essênciais nas quais utilizei nesse CRUD.</b>
+<b>Foi optada essa arquitetura mais recente, pois tem estruturas de manuseamentos essênciais nas quais utilizei nesse CRUD.</b>
 <h3> Banco de dados </h3>
 Executei o Migration onde se criou o banco de dados no SQL dentro do próprio Visual Studio. <br>
 Fui em Ferramentas > Gerenciador de Pacotes do NuGet > Console do Gerenciador de Pacotes <br>
